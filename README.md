@@ -1,6 +1,5 @@
 <img width=100% height=100% alt="Screenshot 2026-06-11 at 8 30 20 AM" src="https://github.com/user-attachments/assets/bb37ce58-8cbd-43a5-a919-db59191c5744" />
 <h1 align="center">cosmic-perott</h1>
-<h3 align="center">the one and only</h3>
 
 <h3 align="center">Languages and Tools used</h3>
 
