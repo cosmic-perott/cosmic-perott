@@ -42,17 +42,25 @@
 [![Scratch](https://img.shields.io/badge/Scratch-%234D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 [![Entry](https://img.shields.io/badge/Entry-60c256?style=for-the-badge&logo=codeforces&logoColor=white)](https://playentry.org/)
 [![Coconut](https://img.shields.io/badge/Coconut-94211e?style=for-the-badge&logo=coconut&logoColor=white)](https://coconut-lang.org/)
-<!--
-**cosmic-perott/cosmic-perott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Awards ###
+<table>
+  <tr>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2025</small></td>
+    <td align="center">🥇<br><b>Minister Award</b><br><small>Olympics Hackathon</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2023</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2022</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>Busan Camp</small></td>
+  </tr>
+  <tr>
+    <td align="center">🥇<br><b>1st Place</b><br><small>FOBISIA 2024</small></td>
+    <td align="center">🥇<br><b>Best Prize</b><br><small>IYRC 2023</small></td>
+    <td align="center">🥇<br><b>Winner</b><br><small>Bloomathon 2025</small></td>
+    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small></td>
+  </tr>
+  <tr>
+    <td align="center">🥈<br><b>Main Stage</b><br><small>DevWeek 2026</small></td>
+    <td align="center">🥈<br><b>Distinction</b><br><small>CCC 2024</small></td>
+    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX Nationals</small></td>
+  </tr>
+</table>
