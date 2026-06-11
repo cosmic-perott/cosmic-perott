@@ -14,7 +14,7 @@
     <td align="center">🥇<br><b>1st Place</b><br><small>FOBISIA 2024</small><br><small>2024</small></td>
     <td align="center">🥇<br><b>Best Prize</b><br><small>IYRC 2023</small><br><small>2023</small></td>
     <td align="center">🥇<br><b>Winner</b><br><small>Bloomathon 2025</small><br><small>2025</small></td>
-    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small><br><small>2026</small></td>
+    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small><br><small>2025</small></td>
     <td align="center">🥈<br><b>Main Stage</b><br><small>DevWeek 2026</small><br><small>2026</small></td>
   </tr>
   <tr>
