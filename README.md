@@ -1,6 +1,29 @@
 <img width=100% height=100% alt="Screenshot 2026-06-11 at 8 30 20 AM" src="https://github.com/user-attachments/assets/bb37ce58-8cbd-43a5-a919-db59191c5744" />
 <h1 align="center">cosmic-perott</h1>
 
+<h3 align="center">Awards</h3>
+<table align="center">
+  <tr>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2025</small><br><small>2025</small></td>
+    <td align="center">🥇<br><b>Minister Award</b><br><small>Olympics Hackathon</small><br><small>2024</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2023</small><br><small>2023</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2022</small><br><small>2022</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>Busan Camp</small><br><small>2025</small></td>
+  </tr>
+  <tr>
+    <td align="center">🥇<br><b>1st Place</b><br><small>FOBISIA 2024</small><br><small>2024</small></td>
+    <td align="center">🥇<br><b>Best Prize</b><br><small>IYRC 2023</small><br><small>2023</small></td>
+    <td align="center">🥇<br><b>Winner</b><br><small>Bloomathon 2025</small><br><small>2025</small></td>
+    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small><br><small>2026</small></td>
+    <td align="center">🥈<br><b>Main Stage</b><br><small>DevWeek 2026</small><br><small>2026</small></td>
+  </tr>
+  <tr>
+    <td align="center">🥈<br><b>Distinction</b><br><small>CCC 2024</small><br><small>2024</small></td>
+    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX Nationals</small><br><small>2026</small></td>
+    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX KISAC</small><br><small>2026</small></td>
+  </tr>
+</table>
+
 <h3 align="center">Languages and Tools used</h3>
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -43,25 +66,3 @@
 [![Entry](https://img.shields.io/badge/Entry-60c256?style=for-the-badge&logo=codeforces&logoColor=white)](https://playentry.org/)
 [![Coconut](https://img.shields.io/badge/Coconut-94211e?style=for-the-badge&logo=coconut&logoColor=white)](https://coconut-lang.org/)
 
-<h3 align="center">Awards</h3>
-<table align="center">
-  <tr>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2025</small><br><small>2025</small></td>
-    <td align="center">🥇<br><b>Minister Award</b><br><small>Olympics Hackathon</small><br><small>2024</small></td>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2023</small><br><small>2023</small></td>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2022</small><br><small>2022</small></td>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>Busan Camp</small><br><small>2025</small></td>
-  </tr>
-  <tr>
-    <td align="center">🥇<br><b>1st Place</b><br><small>FOBISIA 2024</small><br><small>2024</small></td>
-    <td align="center">🥇<br><b>Best Prize</b><br><small>IYRC 2023</small><br><small>2023</small></td>
-    <td align="center">🥇<br><b>Winner</b><br><small>Bloomathon 2025</small><br><small>2025</small></td>
-    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small><br><small>2026</small></td>
-    <td align="center">🥈<br><b>Main Stage</b><br><small>DevWeek 2026</small><br><small>2026</small></td>
-  </tr>
-  <tr>
-    <td align="center">🥈<br><b>Distinction</b><br><small>CCC 2024</small><br><small>2024</small></td>
-    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX Nationals</small><br><small>2026</small></td>
-    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX KISAC</small><br><small>2026</small></td>
-  </tr>
-</table>
