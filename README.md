@@ -46,21 +46,22 @@
 <h3 align="center">Awards</h3>
 <table align="center">
   <tr>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2025</small></td>
-    <td align="center">🥇<br><b>Minister Award</b><br><small>Olympics Hackathon</small></td>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2023</small></td>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2022</small></td>
-    <td align="center">🥇<br><b>Grand Award</b><br><small>Busan Camp</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2025</small> <small>2025</small></td>
+    <td align="center">🥇<br><b>Minister Award</b><br><small>Olympics Hackathon</small><small>2024</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2023</small><small>2023</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>IYRC 2022</small><small>2022</small></td>
+    <td align="center">🥇<br><b>Grand Award</b><br><small>Busan Camp</small><small>2025</small></td>
   </tr>
   <tr>
-    <td align="center">🥇<br><b>1st Place</b><br><small>FOBISIA 2024</small></td>
-    <td align="center">🥇<br><b>Best Prize</b><br><small>IYRC 2023</small></td>
-    <td align="center">🥇<br><b>Winner</b><br><small>Bloomathon 2025</small></td>
-    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small></td>
-    <td align="center">🥈<br><b>Main Stage</b><br><small>DevWeek 2026</small></td>
+    <td align="center">🥇<br><b>1st Place</b><br><small>FOBISIA 2024</small><small>2024</small></td>
+    <td align="center">🥇<br><b>Best Prize</b><br><small>IYRC 2023</small><small>2023</small></td>
+    <td align="center">🥇<br><b>Winner</b><br><small>Bloomathon 2025</small><small>2025</small></td>
+    <td align="center">🥈<br><b>Finalist</b><br><small>PennApps XXVI</small><small>2026</small></td>
+    <td align="center">🥈<br><b>Main Stage</b><br><small>DevWeek 2026</small><small>2026</small></td>
   </tr>
   <tr>
-    <td align="center">🥈<br><b>Distinction</b><br><small>CCC 2024</small></td>
-    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX Nationals</small></td>
+    <td align="center">🥈<br><b>Distinction</b><br><small>CCC 2024</small><small>2024</small></td>
+    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX Nationals</small><small>2026</small></td>
+    <td align="center">🥉<br><b>Quarterfinalist</b><br><small>VEX KISAC</small><small>2026</small></td>
   </tr>
 </table>
