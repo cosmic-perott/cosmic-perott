@@ -66,3 +66,11 @@
 [![Entry](https://img.shields.io/badge/Entry-60c256?style=for-the-badge&logo=codeforces&logoColor=white)](https://playentry.org/)
 [![Coconut](https://img.shields.io/badge/Coconut-94211e?style=for-the-badge&logo=coconut&logoColor=white)](https://coconut-lang.org/)
 
+<h3 align="center">Current Projects</h3>
+<table align="center">
+  <tr>
+    <td align="center"><br><b>Korea Code Fair 8</b><br><br><small>2026</small></td>
+    <td align="center"><br><b>GitLab Transcend Hackathon</b><br><br><small>2026</small></td>
+    <td align="center"><br><b>XPrize Google Hackathon</b><br><br><small>2026</small></td>
+  </tr>
+
